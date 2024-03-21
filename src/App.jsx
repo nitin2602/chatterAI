@@ -98,7 +98,7 @@ const App = () => {
             )}
           </Stack>
           <Flex w="400px" h="400px">
-            <Image src="public\Robot.png" alt="" />
+            <Image src="\Robot.png" alt="" />
           </Flex>
         </Flex>
       </Flex>
